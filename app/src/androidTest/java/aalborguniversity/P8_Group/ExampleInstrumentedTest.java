@@ -1,4 +1,4 @@
-package aalborguniversity.myapplication;
+package aalborguniversity.P8_Group;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
